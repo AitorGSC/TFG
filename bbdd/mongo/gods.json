@@ -1,0 +1,1242 @@
+[{
+  "_id": {
+    "$oid": "67f2cec3ee63ae921352eee1"
+  },
+  "name": "Achilles",
+  "title": "Hero of the Trojan War",
+  "pantheon": "Greek",
+  "rol": "Solo",
+  "type": "Physical",
+  "image": "images/gods/Achilles/default.webp",
+  "estadistics": {
+    "max_health": 622.2,
+    "max_mana": 296,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 19,
+    "magical_protection": 27.5,
+    "movement speed": 375,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2d512ee63ae921352eee2"
+  },
+  "name": "Agni",
+  "title": "God of Fire",
+  "pantheon": "Hindu",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/Agni/default.webp",
+  "estadistics": {
+    "max_health": 617.62,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.57,
+    "magical_protection": 27.43,
+    "movement speed": 365,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.33,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2d61fee63ae921352eee3"
+  },
+  "name": "Aladdin",
+  "title": "The Sultan",
+  "pantheon": "Arabia",
+  "rol": "Jungle",
+  "type": "Magical",
+  "image": "images/gods/Aladdin/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.25,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 365,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2d6a6ee63ae921352eee4"
+  },
+  "name": "Amaterasu",
+  "title": "The Shining Light",
+  "pantheon": "Japanese",
+  "rol": "Solo",
+  "type": "Physical",
+  "image": "images/gods/Amaterasu/default.webp",
+  "estadistics": {
+    "max_health": 647.4,
+    "max_mana": 296,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.4,
+    "magical_protection": 28.6,
+    "movement speed": 365,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2d6f9ee63ae921352eee5"
+  },
+  "name": "Anhur",
+  "title": "Slayer of Enemies",
+  "pantheon": "Egyp`tian",
+  "rol": "Carry",
+  "type": "Physicial",
+  "image": "images/gods/Anhur/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.14,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 375,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 47.95
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2d74aee63ae921352eee6"
+  },
+  "name": "Anubis",
+  "title": "God of the Dead",
+  "pantheon": "Egyptian",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/Anubis/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 319.68,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.57,
+    "magical_protection": 27.43,
+    "movement speed": 375,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.4,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2d7b8ee63ae921352eee7"
+  },
+  "name": "Aphrodite",
+  "title": "Goodess of Beauty",
+  "pantheon": "Greek",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/Aphrodite/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.57,
+    "magical_protection": 27.43,
+    "movement speed": 365,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.4,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2d835ee63ae921352eee8"
+  },
+  "name": "Ares",
+  "title": "God of War",
+  "pantheon": "Greek",
+  "rol": "Support",
+  "type": "Magical",
+  "image": "images/gods/Ares/default.webp",
+  "estadistics": {
+    "max_health": 672.3,
+    "max_mana": 296,
+    "health_per_time": 1.84,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.52,
+    "magical_protection": 29.7,
+    "movement speed": 375,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.33,
+    "power": 42.3
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2d893ee63ae921352eee9"
+  },
+  "name": "Artemis",
+  "title": "Goddess of the Hunt",
+  "pantheon": "Greek",
+  "rol": "Carry",
+  "type": "Physical",
+  "image": "images/gods/Artemis/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.14,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 375,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.51,
+    "power": 47.95
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2d900ee63ae921352eeea"
+  },
+  "name": "Athena",
+  "title": "Goddess of Wisdom",
+  "pantheon": "Greek",
+  "rol": "Support",
+  "type": "Magical",
+  "image": "images/gods/Athena/default.webp",
+  "estadistics": {
+    "max_health": 672.3,
+    "max_mana": 296,
+    "health_per_time": 1.84,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.52,
+    "magical_protection": 29.7,
+    "movement speed": 365,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.33,
+    "power": 42.3
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2d950ee63ae921352eeeb"
+  },
+  "name": "Awilix",
+  "title": "Goddess of the Moon",
+  "pantheon": "Maya",
+  "rol": "Jungle",
+  "type": "Physical",
+  "image": "images/gods/Awilix/default.webp",
+  "estadistics": {
+    "max_health": 591.4,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.25,
+    "physical_protection": 18.1,
+    "magical_protection": 26.1,
+    "movement speed": 365,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 44
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2d999ee63ae921352eeec"
+  },
+  "name": "Bacchus",
+  "title": "God of Wine",
+  "pantheon": "Roman",
+  "rol": "Support",
+  "type": "Magical",
+  "image": "images/gods/Bacchus/default.webp",
+  "estadistics": {
+    "max_health": 672.3,
+    "max_mana": 307.84,
+    "health_per_time": 1.84,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.52,
+    "magical_protection": 29.7,
+    "movement speed": 365,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.33,
+    "power": 45.96
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2da01ee63ae921352eeed"
+  },
+  "name": "Baron Samedi",
+  "title": "God od Life and Death",
+  "pantheon": "Voodoo",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/BaronSamedi/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.57,
+    "magical_protection": 27.43,
+    "movement speed": 365,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.4,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2dc38ee63ae921352eeee"
+  },
+  "name": "Bellona",
+  "title": "Goddess of War",
+  "pantheon": "Roman",
+  "rol": "Solo",
+  "type": "Physical",
+  "image": "images/gods/Bellona/default.webp",
+  "estadistics": {
+    "max_health": 647.4,
+    "max_mana": 281.2,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.4,
+    "magical_protection": 28.4,
+    "movement speed": 375,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2dc9cee63ae921352eeef"
+  },
+  "name": "Cabrakan",
+  "title": "Destroyer of Mountains",
+  "pantheon": "Maya",
+  "rol": "Support",
+  "type": "Magical",
+  "image": "images/gods/Cabrakan/default.webp",
+  "estadistics": {
+    "max_health": 647.4,
+    "max_mana": 296,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 19.76,
+    "magical_protection": 28.6,
+    "movement speed": 375,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.33,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2dd10ee63ae921352eef0"
+  },
+  "name": "Cernunnos",
+  "title": "The Horned God",
+  "pantheon": "Celtic",
+  "rol": "Carry",
+  "type": "Physical",
+  "image": "images/gods/Cernunnos/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.14,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 365,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 46.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2dd68ee63ae921352eef1"
+  },
+  "name": "Chaac",
+  "title": "God of Rain",
+  "pantheon": "Maya",
+  "rol": "Solo",
+  "type": "Physical",
+  "image": "images/gods/Chaac/default.webp",
+  "estadistics": {
+    "max_health": 647.4,
+    "max_mana": 296,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.4,
+    "magical_protection": 28.6,
+    "movement speed": 375,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2ddb9ee63ae921352eef2"
+  },
+  "name": "Cupid",
+  "title": "God of Love",
+  "pantheon": "Roman",
+  "rol": "Carry",
+  "type": "Physical",
+  "image": "images/gods/Cupid/default.webp",
+  "estadistics": {
+    "max_health": 591.4,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.14,
+    "physical_protection": 18.1,
+    "magical_protection": 26.1,
+    "movement speed": 375,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 48
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2de0eee63ae921352eef3"
+  },
+  "name": "Danzaburou",
+  "title": "The Legendary Takuni",
+  "pantheon": "Japanese",
+  "rol": "Carry",
+  "type": "Physical",
+  "image": "images/gods/Danzaburou/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 307.84,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.25,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 365,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.33,
+    "power": 46.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2de65ee63ae921352eef4"
+  },
+  "name": "Fenrir",
+  "title": "The Unbound",
+  "pantheon": "Norse",
+  "rol": "Jungle",
+  "type": "Physical",
+  "image": "images/gods/Fenrir/default.webp",
+  "estadistics": {
+    "max_health": 622.5,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.25,
+    "physical_protection": 19,
+    "magical_protection": 27.5,
+    "movement speed": 375,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2deafee63ae921352eef5"
+  },
+  "name": "Geb",
+  "title": "God of Earth",
+  "pantheon": "Egyptian",
+  "rol": "Support",
+  "type": "Magical",
+  "image": "images/gods/Geb/default.webp",
+  "estadistics": {
+    "max_health": 672.3,
+    "max_mana": 296,
+    "health_per_time": 1.84,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.52,
+    "magical_protection": 29.7,
+    "movement speed": 375,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.33,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2def8ee63ae921352eef6"
+  },
+  "name": "Hades",
+  "title": "King of the Underworld",
+  "pantheon": "Greek",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/Hades/default.webp",
+  "estadistics": {
+    "max_health": 617.62,
+    "max_mana": 307.84,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 18.2,
+    "magical_protection": 28.54,
+    "movement speed": 365,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.4,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2df4bee63ae921352eef7"
+  },
+  "name": "Hecate",
+  "title": "Goddess of Sorcery",
+  "pantheon": "Greek",
+  "rol": "Mid",
+  "type": "",
+  "image": "images/gods/Hecate/default.webp",
+  "estadistics": {
+    "max_health": 572.7,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.48,
+    "magical_protection": 26.08,
+    "movement speed": 375,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.4,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2dfa1ee63ae921352eef8"
+  },
+  "name": "Hercules",
+  "title": "Champion of Rome",
+  "pantheon": "Roman",
+  "rol": "Solo",
+  "type": "Physical",
+  "image": "images/gods/Hercules/default.webp",
+  "estadistics": {
+    "max_health": 647.4,
+    "max_mana": 296,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.4,
+    "magical_protection": 28.6,
+    "movement speed": 365,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e0a0ee63ae921352eef9"
+  },
+  "name": "HuaMulan",
+  "title": "The Ascendant Warrior",
+  "pantheon": "Chinese",
+  "rol": "Solo",
+  "type": "Physical",
+  "image": "images/gods/HuaMulan/default.webp",
+  "estadistics": {
+    "max_health": 647.4,
+    "max_mana": 296,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.4,
+    "magical_protection": 28.6,
+    "movement speed": 375,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 44
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e100ee63ae921352eefa"
+  },
+  "name": "Hun Batz",
+  "title": "The Howler Monkey God",
+  "pantheon": "Maya",
+  "rol": "Jungle",
+  "type": "Physical",
+  "image": "images/gods/HunBatz/default.webp",
+  "estadistics": {
+    "max_health": 622.5,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.25,
+    "physical_protection": 19,
+    "magical_protection": 27.5,
+    "movement speed": 375,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e151ee63ae921352eefb"
+  },
+  "name": "Izanami",
+  "title": "Matron of the Dead",
+  "pantheon": "Japanese",
+  "rol": "Carry",
+  "type": "Physical",
+  "image": "images/gods/Izanami/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.14,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 365,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.51,
+    "power": 41.04
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e19dee63ae921352eefc"
+  },
+  "name": "Jing Wei",
+  "title": "The Oathkeeper",
+  "pantheon": "Chinese",
+  "rol": "Carry",
+  "type": "Physical",
+  "image": "images/gods/JingWie/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.14,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 365,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.51,
+    "power": 47.95
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e1f8ee63ae921352eefd"
+  },
+  "name": "Khepri",
+  "title": "The Dawn Bringer",
+  "pantheon": "Egyptian",
+  "rol": "Support",
+  "type": "Magical",
+  "image": "images/gods/Khepri/default.webp",
+  "estadistics": {
+    "max_health": 672.3,
+    "max_mana": 296,
+    "health_per_time": 1.84,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.52,
+    "magical_protection": 29.7,
+    "movement speed": 375,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.33,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e25aee63ae921352eefe"
+  },
+  "name": "Kukulkan",
+  "title": "Serpent of the Nine Winds",
+  "pantheon": "Maya",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/Kukulkan/default.webp",
+  "estadistics": {
+    "max_health": 572.7,
+    "max_mana": 319.68,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.43,
+    "physical_protection": 17.48,
+    "magical_protection": 26.08,
+    "movement speed": 365,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.4,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e2caee63ae921352eeff"
+  },
+  "name": "Loki",
+  "title": "The Trickter God",
+  "pantheon": "Norse",
+  "rol": "Jungle",
+  "type": "Physical",
+  "image": "images/gods/Loki/default.webp",
+  "estadistics": {
+    "max_health": 617.62,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.25,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 365,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e328ee63ae921352ef00"
+  },
+  "name": "Medusa",
+  "title": "The Gorgon",
+  "pantheon": "Greek",
+  "rol": "Carry",
+  "type": "Physical",
+  "image": "images/gods/Medusa/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.14,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 375,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 46.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e377ee63ae921352ef01"
+  },
+  "name": "Merlin",
+  "title": "The Master Wizard",
+  "pantheon": "Arthurian",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/Merlin/default.webp",
+  "estadistics": {
+    "max_health": 591.4,
+    "max_mana": 320,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.6,
+    "magical_protection": 27.4,
+    "movement speed": 375,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.4,
+    "power": 42
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e3bbee63ae921352ef02"
+  },
+  "name": "Mordred",
+  "title": "Breaker of the Round Table",
+  "pantheon": "Arthurian",
+  "rol": "Solo",
+  "type": "Physical",
+  "image": "images/gods/Mordred/default.webp",
+  "estadistics": {
+    "max_health": 647.4,
+    "max_mana": 296,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.4,
+    "magical_protection": 28.6,
+    "movement speed": 365,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e409ee63ae921352ef03"
+  },
+  "name": "Neith",
+  "title": "Weaver of Fate",
+  "pantheon": "Egyptian",
+  "rol": "Carry",
+  "type": "Physical",
+  "image": "images/gods/Neith/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 307.84,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.14,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 375,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.33,
+    "power": 46.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e460ee63ae921352ef04"
+  },
+  "name": "Nemesis",
+  "title": "Goddess of Vengeance",
+  "pantheon": "Greek",
+  "rol": "Jungle",
+  "type": "Physical",
+  "image": "images/gods/Nemesis/default.webp",
+  "estadistics": {
+    "max_health": 547.4,
+    "max_mana": 322.5,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.4,
+    "magical_protection": 24.8,
+    "movement speed": 442,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e4eeee63ae921352ef05"
+  },
+  "name": "Nu Wa",
+  "title": "Guardian of Heaven",
+  "pantheon": "Chinese",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/NuWa/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.57,
+    "magical_protection": 27.43,
+    "movement speed": 365,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e52dee63ae921352ef06"
+  },
+  "name": "Odin",
+  "title": "The Allfather",
+  "pantheon": "Norse",
+  "rol": "Solo",
+  "type": "Physical",
+  "image": "images/gods/Odin/default.webp",
+  "estadistics": {
+    "max_health": 647.4,
+    "max_mana": 296,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.4,
+    "magical_protection": 28.6,
+    "movement speed": 375,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e580ee63ae921352ef07"
+  },
+  "name": "Pele",
+  "title": "Goddess of Volcanoes",
+  "pantheon": "Polynesian",
+  "rol": "Jungle",
+  "type": "Physical",
+  "image": "images/gods/Pele/default.webp",
+  "estadistics": {
+    "max_health": 622.5,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.25,
+    "physical_protection": 19,
+    "magical_protection": 27.5,
+    "movement speed": 375,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e5d8ee63ae921352ef08"
+  },
+  "name": "Poseidon",
+  "title": "God of the Oceans",
+  "pantheon": "Greek",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/Poseidon/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.57,
+    "magical_protection": 27.43,
+    "movement speed": 365,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2e61bee63ae921352ef09"
+  },
+  "name": "Bari",
+  "title": "The Divine Mudang",
+  "pantheon": "Korean",
+  "rol": "Carry",
+  "type": "Magical",
+  "image": "images/gods/Bari/default.webp",
+  "estadistics": {
+    "max_health": 591.4,
+    "max_mana": 295.6,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.3,
+    "physical_protection": 18.1,
+    "magical_protection": 26.1,
+    "movement speed": 375,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 48
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2ea46ee63ae921352ef0a"
+  },
+  "name": "Ra",
+  "title": "Sun God",
+  "pantheon": "Egyptian",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/Ra/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.57,
+    "magical_protection": 27.43,
+    "movement speed": 375,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.4,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2ea88ee63ae921352ef0b"
+  },
+  "name": "Rama",
+  "title": "Seventh Avatar of Vishnu",
+  "pantheon": "Hindu",
+  "rol": "Carry",
+  "type": "Physical",
+  "image": "images/gods/Rama/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.14,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 365,
+    "base_attack_speed": 0.95,
+    "attack_speed_percent": 1.7,
+    "power": 47.95
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2ead9ee63ae921352ef0c"
+  },
+  "name": "Sobek",
+  "title": "God of the Nile",
+  "pantheon": "Egyptian",
+  "rol": "Support",
+  "type": "Magical",
+  "image": "images/gods/Sobek/default.webp",
+  "estadistics": {
+    "max_health": 626.4,
+    "max_mana": 296,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 19.76,
+    "magical_protection": 28.6,
+    "movement speed": 375,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.33,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2eb28ee63ae921352ef0d"
+  },
+  "name": "Sol",
+  "title": "Goddess of the Sun",
+  "pantheon": "Norse",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/Sol/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.57,
+    "magical_protection": 27.43,
+    "movement speed": 365,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.51,
+    "power": 46.08
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2eb82ee63ae921352ef0e"
+  },
+  "name": "Susano",
+  "title": "God of the Summer Storm",
+  "pantheon": "Japanese",
+  "rol": "Jungle",
+  "type": "Physical",
+  "image": "images/gods/Susano/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.25,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 365,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2ebc8ee63ae921352ef0f"
+  },
+  "name": "Thanatos",
+  "title": "Hand of Death",
+  "pantheon": "Greek",
+  "rol": "Jungle",
+  "type": "Physical",
+  "image": "images/gods/Thanatos/default.webp",
+  "estadistics": {
+    "max_health": 622.5,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.25,
+    "physical_protection": 19,
+    "magical_protection": 27.5,
+    "movement speed": 375,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2ec06ee63ae921352ef10"
+  },
+  "name": "Morrigan",
+  "title": "Phantom Queen",
+  "pantheon": "Celtic",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/Morrigan/default.webp",
+  "estadistics": {
+    "max_health": 575.62,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.57,
+    "magical_protection": 27.43,
+    "movement speed": 365,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 46.08
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2ecc1ee63ae921352ef11"
+  },
+  "name": "Thor",
+  "title": "God of Thunder",
+  "pantheon": "Norse",
+  "rol": "Jungle",
+  "type": "Physical",
+  "image": "images/gods/Thor/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.25,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 365,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2ed10ee63ae921352ef12"
+  },
+  "name": "Ullr",
+  "title": "The Glorious One",
+  "pantheon": "Norse",
+  "rol": "Carry",
+  "type": "Physical",
+  "image": "images/gods/Ullr/default.webp",
+  "estadistics": {
+    "max_health": 617.62,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.14,
+    "physical_protection": 18.05,
+    "magical_protection": 26.12,
+    "movement speed": 375,
+    "base_attack_speed": 1,
+    "attack_speed_percent": 1.33,
+    "power": 47.95
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2ed67ee63ae921352ef13"
+  },
+  "name": "Vulcan",
+  "title": "Smith of the Gods",
+  "pantheon": "Roman",
+  "rol": "Mid",
+  "type": "Magical",
+  "image": "images/gods/Vulcan/default.webp",
+  "estadistics": {
+    "max_health": 617.62,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.57,
+    "magical_protection": 27.43,
+    "movement speed": 365,
+    "base_attack_speed": 0.93,
+    "attack_speed_percent": 1.4,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2edaeee63ae921352ef14"
+  },
+  "name": "Yemoja",
+  "title": "Goddess of Rivers",
+  "pantheon": "Yoruba",
+  "rol": "Support",
+  "type": "Magical",
+  "image": "images/gods/Yemoja/default.webp",
+  "estadistics": {
+    "max_health": 672.3,
+    "max_mana": 296,
+    "health_per_time": 1.77,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.52,
+    "magical_protection": 29.7,
+    "movement speed": 375,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.33,
+    "power": 42.18
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2edfeee63ae921352ef15"
+  },
+  "name": "Ymir",
+  "title": "Father of the Frost Giants",
+  "pantheon": "Norse",
+  "rol": "Support",
+  "type": "Magical",
+  "image": "images/gods/Ymir/default.webp",
+  "estadistics": {
+    "max_health": 672.3,
+    "max_mana": 296,
+    "health_per_time": 1.84,
+    "mana_per_time": 2.25,
+    "physical_protection": 20.52,
+    "magical_protection": 29.7,
+    "movement speed": 375,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.33,
+    "power": 44.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2ee45ee63ae921352ef16"
+  },
+  "name": "Zeus",
+  "title": "God of the Sky",
+  "pantheon": "Greek",
+  "rol": "Egyptian",
+  "type": "Magical",
+  "image": "images/gods/Zeus/default.webp",
+  "estadistics": {
+    "max_health": 591.38,
+    "max_mana": 296,
+    "health_per_time": 1.7,
+    "mana_per_time": 2.34,
+    "physical_protection": 17.57,
+    "magical_protection": 27.43,
+    "movement speed": 365,
+    "base_attack_speed": 0.97,
+    "attack_speed_percent": 1.46,
+    "power": 42.3
+  }
+}]
