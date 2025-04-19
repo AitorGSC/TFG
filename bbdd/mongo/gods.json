@@ -7,19 +7,39 @@
   "pantheon": "Greek",
   "rol": "Solo",
   "type": "Physical",
-  "image": "images/gods/Achilles/default.webp",
+  "image": "images\\gods\\Achilles\\default.webp",
   "estadistics": {
-    "max_health": 622.2,
-    "max_mana": 296,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 19,
-    "magical_protection": 27.5,
-    "movement speed": 375,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "622.2",
+    "max_mana": "296",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "19",
+    "magical_protection": "27.5",
+    "movement speed": "375",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "67f426042572850e692fab4b"
+    },
+    {
+      "$oid": "67f4260a2572850e692fab4c"
+    },
+    {
+      "$oid": "67f4260d2572850e692fab4d"
+    },
+    {
+      "$oid": "67f426112572850e692fab4e"
+    },
+    {
+      "$oid": "67f426142572850e692fab4f"
+    },
+    {
+      "$oid": "67f429f42572850e692fab62"
+    }
+  ]
 },
 {
   "_id": {
@@ -30,19 +50,39 @@
   "pantheon": "Hindu",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/Agni/default.webp",
+  "image": "images\\gods\\Agni\\default.webp",
   "estadistics": {
-    "max_health": 617.62,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.57,
-    "magical_protection": 27.43,
-    "movement speed": 365,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.33,
-    "power": 42.18
-  }
+    "max_health": "617.62",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.57",
+    "magical_protection": "27.43",
+    "movement speed": "365",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.33",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67f6c7592536b1a516c1ebec"
+    },
+    {
+      "$oid": "67f6c7802536b1a516c1ebed"
+    },
+    {
+      "$oid": "67f6c78c2536b1a516c1ebee"
+    },
+    {
+      "$oid": "67f6c7922536b1a516c1ebef"
+    },
+    {
+      "$oid": "67f6c7a02536b1a516c1ebf0"
+    },
+    {
+      "$oid": "67f6c7a52536b1a516c1ebf1"
+    }
+  ]
 },
 {
   "_id": {
@@ -53,19 +93,39 @@
   "pantheon": "Arabia",
   "rol": "Jungle",
   "type": "Magical",
-  "image": "images/gods/Aladdin/default.webp",
+  "image": "images\\gods\\Aladdin\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.25,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 365,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.25",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "365",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "67f928e1aa1a123e3fd3f219"
+    },
+    {
+      "$oid": "67f928e6aa1a123e3fd3f21a"
+    },
+    {
+      "$oid": "67f928ebaa1a123e3fd3f21b"
+    },
+    {
+      "$oid": "67f928efaa1a123e3fd3f21c"
+    },
+    {
+      "$oid": "67f928f4aa1a123e3fd3f21d"
+    },
+    {
+      "$oid": "67f928feaa1a123e3fd3f21e"
+    }
+  ]
 },
 {
   "_id": {
@@ -76,19 +136,39 @@
   "pantheon": "Japanese",
   "rol": "Solo",
   "type": "Physical",
-  "image": "images/gods/Amaterasu/default.webp",
+  "image": "images\\gods\\Amaterasu\\default.webp",
   "estadistics": {
-    "max_health": 647.4,
-    "max_mana": 296,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.4,
-    "magical_protection": 28.6,
-    "movement speed": 365,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "647.4",
+    "max_mana": "296",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.4",
+    "magical_protection": "28.6",
+    "movement speed": "365",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "67f9321daa1a123e3fd3f22f"
+    },
+    {
+      "$oid": "67f93222aa1a123e3fd3f230"
+    },
+    {
+      "$oid": "67f93226aa1a123e3fd3f231"
+    },
+    {
+      "$oid": "67f9322aaa1a123e3fd3f232"
+    },
+    {
+      "$oid": "67f9322eaa1a123e3fd3f233"
+    },
+    {
+      "$oid": "67f93231aa1a123e3fd3f234"
+    }
+  ]
 },
 {
   "_id": {
@@ -99,19 +179,39 @@
   "pantheon": "Egyp`tian",
   "rol": "Carry",
   "type": "Physicial",
-  "image": "images/gods/Anhur/default.webp",
+  "image": "images\\gods\\Anhur\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.14,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 375,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 47.95
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.14",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "375",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "47.95"
+  },
+  "abilities": [
+    {
+      "$oid": "67f93d68aa1a123e3fd3f241"
+    },
+    {
+      "$oid": "67f93d79aa1a123e3fd3f242"
+    },
+    {
+      "$oid": "67f93d85aa1a123e3fd3f243"
+    },
+    {
+      "$oid": "67f93d8eaa1a123e3fd3f244"
+    },
+    {
+      "$oid": "67f93d97aa1a123e3fd3f245"
+    },
+    {
+      "$oid": "67f93da1aa1a123e3fd3f246"
+    }
+  ]
 },
 {
   "_id": {
@@ -122,19 +222,39 @@
   "pantheon": "Egyptian",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/Anubis/default.webp",
+  "image": "images\\gods\\Anubis\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 319.68,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.57,
-    "magical_protection": 27.43,
-    "movement speed": 375,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.4,
-    "power": 42.18
-  }
+    "max_health": "591.38",
+    "max_mana": "319.68",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.57",
+    "magical_protection": "27.43",
+    "movement speed": "375",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.4",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67f9492cf29cc9f91fc05878"
+    },
+    {
+      "$oid": "67f9493af29cc9f91fc05879"
+    },
+    {
+      "$oid": "67f94947f29cc9f91fc0587a"
+    },
+    {
+      "$oid": "67f94952f29cc9f91fc0587b"
+    },
+    {
+      "$oid": "67f9495ff29cc9f91fc0587c"
+    },
+    {
+      "$oid": "67f9496af29cc9f91fc0587d"
+    }
+  ]
 },
 {
   "_id": {
@@ -145,19 +265,39 @@
   "pantheon": "Greek",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/Aphrodite/default.webp",
+  "image": "images\\gods\\Aphrodite\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.57,
-    "magical_protection": 27.43,
-    "movement speed": 365,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.4,
-    "power": 42.18
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.57",
+    "magical_protection": "27.43",
+    "movement speed": "365",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.4",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67f94ff3f29cc9f91fc05881"
+    },
+    {
+      "$oid": "67f95007f29cc9f91fc05882"
+    },
+    {
+      "$oid": "67f95010f29cc9f91fc05883"
+    },
+    {
+      "$oid": "67f95018f29cc9f91fc05884"
+    },
+    {
+      "$oid": "67f95024f29cc9f91fc05885"
+    },
+    {
+      "$oid": "67f9502ef29cc9f91fc05886"
+    }
+  ]
 },
 {
   "_id": {
@@ -168,19 +308,39 @@
   "pantheon": "Greek",
   "rol": "Support",
   "type": "Magical",
-  "image": "images/gods/Ares/default.webp",
+  "image": "images\\gods\\Ares\\default.webp",
   "estadistics": {
-    "max_health": 672.3,
-    "max_mana": 296,
-    "health_per_time": 1.84,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.52,
-    "magical_protection": 29.7,
-    "movement speed": 375,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.33,
-    "power": 42.3
-  }
+    "max_health": "672.3",
+    "max_mana": "296",
+    "health_per_time": "1.84",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.52",
+    "magical_protection": "29.7",
+    "movement speed": "375",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.33",
+    "power": "42.3"
+  },
+  "abilities": [
+    {
+      "$oid": "67f958b9f29cc9f91fc05889"
+    },
+    {
+      "$oid": "67f958e5f29cc9f91fc0588a"
+    },
+    {
+      "$oid": "67f958edf29cc9f91fc0588b"
+    },
+    {
+      "$oid": "67f958f4f29cc9f91fc0588c"
+    },
+    {
+      "$oid": "67f958fdf29cc9f91fc0588d"
+    },
+    {
+      "$oid": "67f95907f29cc9f91fc0588e"
+    }
+  ]
 },
 {
   "_id": {
@@ -191,19 +351,39 @@
   "pantheon": "Greek",
   "rol": "Carry",
   "type": "Physical",
-  "image": "images/gods/Artemis/default.webp",
+  "image": "images\\gods\\Artemis\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.14,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 375,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.51,
-    "power": 47.95
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.14",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "375",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.51",
+    "power": "47.95"
+  },
+  "abilities": [
+    {
+      "$oid": "67f95febf29cc9f91fc05893"
+    },
+    {
+      "$oid": "67f95ffff29cc9f91fc05894"
+    },
+    {
+      "$oid": "67f96008f29cc9f91fc05895"
+    },
+    {
+      "$oid": "67f96012f29cc9f91fc05896"
+    },
+    {
+      "$oid": "67f9601cf29cc9f91fc05897"
+    },
+    {
+      "$oid": "67f96025f29cc9f91fc05898"
+    }
+  ]
 },
 {
   "_id": {
@@ -214,19 +394,39 @@
   "pantheon": "Greek",
   "rol": "Support",
   "type": "Magical",
-  "image": "images/gods/Athena/default.webp",
+  "image": "images\\gods\\Athena\\default.webp",
   "estadistics": {
-    "max_health": 672.3,
-    "max_mana": 296,
-    "health_per_time": 1.84,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.52,
-    "magical_protection": 29.7,
-    "movement speed": 365,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.33,
-    "power": 42.3
-  }
+    "max_health": "672.3",
+    "max_mana": "296",
+    "health_per_time": "1.84",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.52",
+    "magical_protection": "29.7",
+    "movement speed": "365",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.33",
+    "power": "42.3"
+  },
+  "abilities": [
+    {
+      "$oid": "67f964f0f29cc9f91fc05899"
+    },
+    {
+      "$oid": "67f96503f29cc9f91fc0589a"
+    },
+    {
+      "$oid": "67f9650cf29cc9f91fc0589b"
+    },
+    {
+      "$oid": "67f96516f29cc9f91fc0589c"
+    },
+    {
+      "$oid": "67f9651ff29cc9f91fc0589d"
+    },
+    {
+      "$oid": "67f96528f29cc9f91fc0589e"
+    }
+  ]
 },
 {
   "_id": {
@@ -237,19 +437,39 @@
   "pantheon": "Maya",
   "rol": "Jungle",
   "type": "Physical",
-  "image": "images/gods/Awilix/default.webp",
+  "image": "images\\gods\\Awilix\\default.webp",
   "estadistics": {
-    "max_health": 591.4,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.25,
-    "physical_protection": 18.1,
-    "magical_protection": 26.1,
-    "movement speed": 365,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 44
-  }
+    "max_health": "591.4",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.25",
+    "physical_protection": "18.1",
+    "magical_protection": "26.1",
+    "movement speed": "365",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "44"
+  },
+  "abilities": [
+    {
+      "$oid": "67fa9c52e2b57a4c76bf9e3b"
+    },
+    {
+      "$oid": "67fa9c59e2b57a4c76bf9e3c"
+    },
+    {
+      "$oid": "67fa9c60e2b57a4c76bf9e3d"
+    },
+    {
+      "$oid": "67fa9c67e2b57a4c76bf9e3e"
+    },
+    {
+      "$oid": "67fa9c6fe2b57a4c76bf9e3f"
+    },
+    {
+      "$oid": "67fa9c76e2b57a4c76bf9e40"
+    }
+  ]
 },
 {
   "_id": {
@@ -260,19 +480,39 @@
   "pantheon": "Roman",
   "rol": "Support",
   "type": "Magical",
-  "image": "images/gods/Bacchus/default.webp",
+  "image": "images\\gods\\Bacchus\\default.webp",
   "estadistics": {
-    "max_health": 672.3,
-    "max_mana": 307.84,
-    "health_per_time": 1.84,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.52,
-    "magical_protection": 29.7,
-    "movement speed": 365,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.33,
-    "power": 45.96
-  }
+    "max_health": "672.3",
+    "max_mana": "307.84",
+    "health_per_time": "1.84",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.52",
+    "magical_protection": "29.7",
+    "movement speed": "365",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.33",
+    "power": "45.96"
+  },
+  "abilities": [
+    {
+      "$oid": "67faa07ce2b57a4c76bf9e44"
+    },
+    {
+      "$oid": "67faa089e2b57a4c76bf9e45"
+    },
+    {
+      "$oid": "67faa090e2b57a4c76bf9e46"
+    },
+    {
+      "$oid": "67faa096e2b57a4c76bf9e47"
+    },
+    {
+      "$oid": "67faa09ee2b57a4c76bf9e48"
+    },
+    {
+      "$oid": "67faa0a6e2b57a4c76bf9e49"
+    }
+  ]
 },
 {
   "_id": {
@@ -283,19 +523,39 @@
   "pantheon": "Voodoo",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/BaronSamedi/default.webp",
+  "image": "images\\gods\\BaronSamedi\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.57,
-    "magical_protection": 27.43,
-    "movement speed": 365,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.4,
-    "power": 42.18
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.57",
+    "magical_protection": "27.43",
+    "movement speed": "365",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.4",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67faa46de2b57a4c76bf9e4c"
+    },
+    {
+      "$oid": "67faa47be2b57a4c76bf9e4d"
+    },
+    {
+      "$oid": "67faa481e2b57a4c76bf9e4e"
+    },
+    {
+      "$oid": "67faa488e2b57a4c76bf9e4f"
+    },
+    {
+      "$oid": "67faa48fe2b57a4c76bf9e50"
+    },
+    {
+      "$oid": "67faa495e2b57a4c76bf9e51"
+    }
+  ]
 },
 {
   "_id": {
@@ -306,19 +566,39 @@
   "pantheon": "Roman",
   "rol": "Solo",
   "type": "Physical",
-  "image": "images/gods/Bellona/default.webp",
+  "image": "images\\gods\\Bellona\\default.webp",
   "estadistics": {
-    "max_health": 647.4,
-    "max_mana": 281.2,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.4,
-    "magical_protection": 28.4,
-    "movement speed": 375,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "647.4",
+    "max_mana": "281.2",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.4",
+    "magical_protection": "28.4",
+    "movement speed": "375",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "67faa967e2b57a4c76bf9e57"
+    },
+    {
+      "$oid": "67faa971e2b57a4c76bf9e58"
+    },
+    {
+      "$oid": "67faa97be2b57a4c76bf9e59"
+    },
+    {
+      "$oid": "67faa981e2b57a4c76bf9e5a"
+    },
+    {
+      "$oid": "67faa98ee2b57a4c76bf9e5b"
+    },
+    {
+      "$oid": "67faa994e2b57a4c76bf9e5c"
+    }
+  ]
 },
 {
   "_id": {
@@ -329,19 +609,39 @@
   "pantheon": "Maya",
   "rol": "Support",
   "type": "Magical",
-  "image": "images/gods/Cabrakan/default.webp",
+  "image": "images\\gods\\Cabrakan\\default.webp",
   "estadistics": {
-    "max_health": 647.4,
-    "max_mana": 296,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 19.76,
-    "magical_protection": 28.6,
-    "movement speed": 375,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.33,
-    "power": 42.18
-  }
+    "max_health": "647.4",
+    "max_mana": "296",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "19.76",
+    "magical_protection": "28.6",
+    "movement speed": "375",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.33",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67faae1de2b57a4c76bf9e5f"
+    },
+    {
+      "$oid": "67faae25e2b57a4c76bf9e60"
+    },
+    {
+      "$oid": "67faae2be2b57a4c76bf9e61"
+    },
+    {
+      "$oid": "67faae32e2b57a4c76bf9e62"
+    },
+    {
+      "$oid": "67faae38e2b57a4c76bf9e63"
+    },
+    {
+      "$oid": "67faae3fe2b57a4c76bf9e64"
+    }
+  ]
 },
 {
   "_id": {
@@ -352,19 +652,39 @@
   "pantheon": "Celtic",
   "rol": "Carry",
   "type": "Physical",
-  "image": "images/gods/Cernunnos/default.webp",
+  "image": "images\\gods\\Cernunnos\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.14,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 365,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 46.18
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.14",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "365",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "46.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67fbb4106bccde8ebdf22f81"
+    },
+    {
+      "$oid": "67fbb41a6bccde8ebdf22f82"
+    },
+    {
+      "$oid": "67fbb4216bccde8ebdf22f83"
+    },
+    {
+      "$oid": "67fbb4296bccde8ebdf22f84"
+    },
+    {
+      "$oid": "67fbb4316bccde8ebdf22f86"
+    },
+    {
+      "$oid": "67fbb4386bccde8ebdf22f87"
+    }
+  ]
 },
 {
   "_id": {
@@ -375,19 +695,39 @@
   "pantheon": "Maya",
   "rol": "Solo",
   "type": "Physical",
-  "image": "images/gods/Chaac/default.webp",
+  "image": "images\\gods\\Chaac\\default.webp",
   "estadistics": {
-    "max_health": 647.4,
-    "max_mana": 296,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.4,
-    "magical_protection": 28.6,
-    "movement speed": 375,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "647.4",
+    "max_mana": "296",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.4",
+    "magical_protection": "28.6",
+    "movement speed": "375",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "67fbba536bccde8ebdf22f9a"
+    },
+    {
+      "$oid": "67fbba5a6bccde8ebdf22f9b"
+    },
+    {
+      "$oid": "67fbba616bccde8ebdf22f9c"
+    },
+    {
+      "$oid": "67fbba676bccde8ebdf22f9d"
+    },
+    {
+      "$oid": "67fbba6e6bccde8ebdf22f9e"
+    },
+    {
+      "$oid": "67fbba746bccde8ebdf22f9f"
+    }
+  ]
 },
 {
   "_id": {
@@ -398,19 +738,39 @@
   "pantheon": "Roman",
   "rol": "Carry",
   "type": "Physical",
-  "image": "images/gods/Cupid/default.webp",
+  "image": "images\\gods\\Cupid\\default.webp",
   "estadistics": {
-    "max_health": 591.4,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.14,
-    "physical_protection": 18.1,
-    "magical_protection": 26.1,
-    "movement speed": 375,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 48
-  }
+    "max_health": "591.4",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.14",
+    "physical_protection": "18.1",
+    "magical_protection": "26.1",
+    "movement speed": "375",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "48"
+  },
+  "abilities": [
+    {
+      "$oid": "67fbbec06bccde8ebdf22fa0"
+    },
+    {
+      "$oid": "67fbbecf6bccde8ebdf22fa1"
+    },
+    {
+      "$oid": "67fbbed66bccde8ebdf22fa2"
+    },
+    {
+      "$oid": "67fbbede6bccde8ebdf22fa3"
+    },
+    {
+      "$oid": "67fbbee76bccde8ebdf22fa4"
+    },
+    {
+      "$oid": "67fbbeed6bccde8ebdf22fa5"
+    }
+  ]
 },
 {
   "_id": {
@@ -421,19 +781,39 @@
   "pantheon": "Japanese",
   "rol": "Carry",
   "type": "Physical",
-  "image": "images/gods/Danzaburou/default.webp",
+  "image": "images\\gods\\Danzaburou\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 307.84,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.25,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 365,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.33,
-    "power": 46.18
-  }
+    "max_health": "591.38",
+    "max_mana": "307.84",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.25",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "365",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.33",
+    "power": "46.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67fbee456bccde8ebdf22fa8"
+    },
+    {
+      "$oid": "67fbee516bccde8ebdf22fa9"
+    },
+    {
+      "$oid": "67fbee576bccde8ebdf22faa"
+    },
+    {
+      "$oid": "67fbee5d6bccde8ebdf22fab"
+    },
+    {
+      "$oid": "67fbee666bccde8ebdf22fac"
+    },
+    {
+      "$oid": "67fbee6d6bccde8ebdf22fad"
+    }
+  ]
 },
 {
   "_id": {
@@ -444,19 +824,39 @@
   "pantheon": "Norse",
   "rol": "Jungle",
   "type": "Physical",
-  "image": "images/gods/Fenrir/default.webp",
+  "image": "images\\gods\\Fenrir\\default.webp",
   "estadistics": {
-    "max_health": 622.5,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.25,
-    "physical_protection": 19,
-    "magical_protection": 27.5,
-    "movement speed": 375,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "622.5",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.25",
+    "physical_protection": "19",
+    "magical_protection": "27.5",
+    "movement speed": "375",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "67fbf2566bccde8ebdf22fae"
+    },
+    {
+      "$oid": "67fbf2616bccde8ebdf22faf"
+    },
+    {
+      "$oid": "67fbf2676bccde8ebdf22fb0"
+    },
+    {
+      "$oid": "67fbf26c6bccde8ebdf22fb1"
+    },
+    {
+      "$oid": "67fbf2736bccde8ebdf22fb2"
+    },
+    {
+      "$oid": "67fbf2786bccde8ebdf22fb3"
+    }
+  ]
 },
 {
   "_id": {
@@ -467,19 +867,39 @@
   "pantheon": "Egyptian",
   "rol": "Support",
   "type": "Magical",
-  "image": "images/gods/Geb/default.webp",
+  "image": "images\\gods\\Geb\\default.webp",
   "estadistics": {
-    "max_health": 672.3,
-    "max_mana": 296,
-    "health_per_time": 1.84,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.52,
-    "magical_protection": 29.7,
-    "movement speed": 375,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.33,
-    "power": 42.18
-  }
+    "max_health": "672.3",
+    "max_mana": "296",
+    "health_per_time": "1.84",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.52",
+    "magical_protection": "29.7",
+    "movement speed": "375",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.33",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67fbfbea6bccde8ebdf22fb6"
+    },
+    {
+      "$oid": "67fbfbf86bccde8ebdf22fb7"
+    },
+    {
+      "$oid": "67fbfbfd6bccde8ebdf22fb8"
+    },
+    {
+      "$oid": "67fbfc036bccde8ebdf22fb9"
+    },
+    {
+      "$oid": "67fbfc0a6bccde8ebdf22fba"
+    },
+    {
+      "$oid": "67fbfc116bccde8ebdf22fbb"
+    }
+  ]
 },
 {
   "_id": {
@@ -490,19 +910,39 @@
   "pantheon": "Greek",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/Hades/default.webp",
+  "image": "images\\gods\\Hades\\default.webp",
   "estadistics": {
-    "max_health": 617.62,
-    "max_mana": 307.84,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 18.2,
-    "magical_protection": 28.54,
-    "movement speed": 365,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.4,
-    "power": 42.18
-  }
+    "max_health": "617.62",
+    "max_mana": "307.84",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "18.2",
+    "magical_protection": "28.54",
+    "movement speed": "365",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.4",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67fd0e2146415bfc9e4cc55c"
+    },
+    {
+      "$oid": "67fd0e3546415bfc9e4cc55d"
+    },
+    {
+      "$oid": "67fd0e4546415bfc9e4cc55e"
+    },
+    {
+      "$oid": "67fd0e4f46415bfc9e4cc55f"
+    },
+    {
+      "$oid": "67fd0e5c46415bfc9e4cc560"
+    },
+    {
+      "$oid": "67fd0e8546415bfc9e4cc561"
+    }
+  ]
 },
 {
   "_id": {
@@ -513,19 +953,39 @@
   "pantheon": "Greek",
   "rol": "Mid",
   "type": "",
-  "image": "images/gods/Hecate/default.webp",
+  "image": "images\\gods\\Hecate\\default.webp",
   "estadistics": {
-    "max_health": 572.7,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.48,
-    "magical_protection": 26.08,
-    "movement speed": 375,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.4,
-    "power": 42.18
-  }
+    "max_health": "572.7",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.48",
+    "magical_protection": "26.08",
+    "movement speed": "375",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.4",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67fd134b46415bfc9e4cc564"
+    },
+    {
+      "$oid": "67fd135a46415bfc9e4cc565"
+    },
+    {
+      "$oid": "67fd136146415bfc9e4cc566"
+    },
+    {
+      "$oid": "67fd136646415bfc9e4cc567"
+    },
+    {
+      "$oid": "67fd136f46415bfc9e4cc568"
+    },
+    {
+      "$oid": "67fd137646415bfc9e4cc569"
+    }
+  ]
 },
 {
   "_id": {
@@ -536,19 +996,39 @@
   "pantheon": "Roman",
   "rol": "Solo",
   "type": "Physical",
-  "image": "images/gods/Hercules/default.webp",
+  "image": "images\\gods\\Hercules\\default.webp",
   "estadistics": {
-    "max_health": 647.4,
-    "max_mana": 296,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.4,
-    "magical_protection": 28.6,
-    "movement speed": 365,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "647.4",
+    "max_mana": "296",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.4",
+    "magical_protection": "28.6",
+    "movement speed": "365",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "67fd17e146415bfc9e4cc56c"
+    },
+    {
+      "$oid": "67fd17e646415bfc9e4cc56d"
+    },
+    {
+      "$oid": "67fd17f146415bfc9e4cc56e"
+    },
+    {
+      "$oid": "67fd17f746415bfc9e4cc56f"
+    },
+    {
+      "$oid": "67fd17fd46415bfc9e4cc570"
+    },
+    {
+      "$oid": "67fd180546415bfc9e4cc571"
+    }
+  ]
 },
 {
   "_id": {
@@ -559,19 +1039,39 @@
   "pantheon": "Chinese",
   "rol": "Solo",
   "type": "Physical",
-  "image": "images/gods/HuaMulan/default.webp",
+  "image": "images\\gods\\HuaMulan\\default.webp",
   "estadistics": {
-    "max_health": 647.4,
-    "max_mana": 296,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.4,
-    "magical_protection": 28.6,
-    "movement speed": 375,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 44
-  }
+    "max_health": "647.4",
+    "max_mana": "296",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.4",
+    "magical_protection": "28.6",
+    "movement speed": "375",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "44"
+  },
+  "abilities": [
+    {
+      "$oid": "67fd1b8c46415bfc9e4cc574"
+    },
+    {
+      "$oid": "67fd1b9846415bfc9e4cc575"
+    },
+    {
+      "$oid": "67fd1b9f46415bfc9e4cc576"
+    },
+    {
+      "$oid": "67fd1ba646415bfc9e4cc577"
+    },
+    {
+      "$oid": "67fd1bae46415bfc9e4cc578"
+    },
+    {
+      "$oid": "67fd1bb546415bfc9e4cc579"
+    }
+  ]
 },
 {
   "_id": {
@@ -582,19 +1082,39 @@
   "pantheon": "Maya",
   "rol": "Jungle",
   "type": "Physical",
-  "image": "images/gods/HunBatz/default.webp",
+  "image": "images\\gods\\HunBatz\\default.webp",
   "estadistics": {
-    "max_health": 622.5,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.25,
-    "physical_protection": 19,
-    "magical_protection": 27.5,
-    "movement speed": 375,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "622.5",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.25",
+    "physical_protection": "19",
+    "magical_protection": "27.5",
+    "movement speed": "375",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "67fd278046415bfc9e4cc57b"
+    },
+    {
+      "$oid": "67fd278a46415bfc9e4cc57c"
+    },
+    {
+      "$oid": "67fd279146415bfc9e4cc57d"
+    },
+    {
+      "$oid": "67fd279846415bfc9e4cc57e"
+    },
+    {
+      "$oid": "67fd27a146415bfc9e4cc57f"
+    },
+    {
+      "$oid": "67fd27aa46415bfc9e4cc580"
+    }
+  ]
 },
 {
   "_id": {
@@ -605,19 +1125,39 @@
   "pantheon": "Japanese",
   "rol": "Carry",
   "type": "Physical",
-  "image": "images/gods/Izanami/default.webp",
+  "image": "images\\gods\\Izanami\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.14,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 365,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.51,
-    "power": 41.04
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.14",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "365",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.51",
+    "power": "41.04"
+  },
+  "abilities": [
+    {
+      "$oid": "67fd2ae946415bfc9e4cc582"
+    },
+    {
+      "$oid": "67fd2aef46415bfc9e4cc583"
+    },
+    {
+      "$oid": "67fd2af446415bfc9e4cc584"
+    },
+    {
+      "$oid": "67fd2afb46415bfc9e4cc585"
+    },
+    {
+      "$oid": "67fd2b0146415bfc9e4cc586"
+    },
+    {
+      "$oid": "67fd2b0646415bfc9e4cc587"
+    }
+  ]
 },
 {
   "_id": {
@@ -628,19 +1168,39 @@
   "pantheon": "Chinese",
   "rol": "Carry",
   "type": "Physical",
-  "image": "images/gods/JingWie/default.webp",
+  "image": "images\\gods\\JingWie\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.14,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 365,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.51,
-    "power": 47.95
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.14",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "365",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.51",
+    "power": "47.95"
+  },
+  "abilities": [
+    {
+      "$oid": "67fd2ea646415bfc9e4cc589"
+    },
+    {
+      "$oid": "67fd2ead46415bfc9e4cc58a"
+    },
+    {
+      "$oid": "67fd2eb546415bfc9e4cc58b"
+    },
+    {
+      "$oid": "67fd2ebe46415bfc9e4cc58c"
+    },
+    {
+      "$oid": "67fd2ecb46415bfc9e4cc58d"
+    },
+    {
+      "$oid": "67fd2ed346415bfc9e4cc58e"
+    }
+  ]
 },
 {
   "_id": {
@@ -651,19 +1211,39 @@
   "pantheon": "Egyptian",
   "rol": "Support",
   "type": "Magical",
-  "image": "images/gods/Khepri/default.webp",
+  "image": "images\\gods\\Khepri\\default.webp",
   "estadistics": {
-    "max_health": 672.3,
-    "max_mana": 296,
-    "health_per_time": 1.84,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.52,
-    "magical_protection": 29.7,
-    "movement speed": 375,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.33,
-    "power": 42.18
-  }
+    "max_health": "672.3",
+    "max_mana": "296",
+    "health_per_time": "1.84",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.52",
+    "magical_protection": "29.7",
+    "movement speed": "375",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.33",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67fd361146415bfc9e4cc58f"
+    },
+    {
+      "$oid": "67fd361a46415bfc9e4cc590"
+    },
+    {
+      "$oid": "67fd362146415bfc9e4cc591"
+    },
+    {
+      "$oid": "67fd362846415bfc9e4cc592"
+    },
+    {
+      "$oid": "67fd362f46415bfc9e4cc593"
+    },
+    {
+      "$oid": "67fd363646415bfc9e4cc594"
+    }
+  ]
 },
 {
   "_id": {
@@ -674,19 +1254,39 @@
   "pantheon": "Maya",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/Kukulkan/default.webp",
+  "image": "images\\gods\\Kukulkan\\default.webp",
   "estadistics": {
-    "max_health": 572.7,
-    "max_mana": 319.68,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.43,
-    "physical_protection": 17.48,
-    "magical_protection": 26.08,
-    "movement speed": 365,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.4,
-    "power": 42.18
-  }
+    "max_health": "572.7",
+    "max_mana": "319.68",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.43",
+    "physical_protection": "17.48",
+    "magical_protection": "26.08",
+    "movement speed": "365",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.4",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67fd363d46415bfc9e4cc595"
+    },
+    {
+      "$oid": "67fd364446415bfc9e4cc596"
+    },
+    {
+      "$oid": "67fd62e046415bfc9e4cc599"
+    },
+    {
+      "$oid": "67fd62e646415bfc9e4cc59a"
+    },
+    {
+      "$oid": "67fd62ed46415bfc9e4cc59b"
+    },
+    {
+      "$oid": "67fd62f746415bfc9e4cc59c"
+    }
+  ]
 },
 {
   "_id": {
@@ -697,19 +1297,39 @@
   "pantheon": "Norse",
   "rol": "Jungle",
   "type": "Physical",
-  "image": "images/gods/Loki/default.webp",
+  "image": "images\\gods\\Loki\\default.webp",
   "estadistics": {
-    "max_health": 617.62,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.25,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 365,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "617.62",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.25",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "365",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "67ffd06962a01e38b69d33cb"
+    },
+    {
+      "$oid": "67ffd07d62a01e38b69d33cc"
+    },
+    {
+      "$oid": "67ffd08462a01e38b69d33cd"
+    },
+    {
+      "$oid": "67ffd08a62a01e38b69d33ce"
+    },
+    {
+      "$oid": "67ffd09062a01e38b69d33cf"
+    },
+    {
+      "$oid": "67ffd09962a01e38b69d33d0"
+    }
+  ]
 },
 {
   "_id": {
@@ -720,19 +1340,39 @@
   "pantheon": "Greek",
   "rol": "Carry",
   "type": "Physical",
-  "image": "images/gods/Medusa/default.webp",
+  "image": "images\\gods\\Medusa\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.14,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 375,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 46.18
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.14",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "375",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "46.18"
+  },
+  "abilities": [
+    {
+      "$oid": "67ffd45562a01e38b69d33d3"
+    },
+    {
+      "$oid": "67ffd45c62a01e38b69d33d4"
+    },
+    {
+      "$oid": "67ffd46162a01e38b69d33d5"
+    },
+    {
+      "$oid": "67ffd46962a01e38b69d33d6"
+    },
+    {
+      "$oid": "67ffd47462a01e38b69d33d7"
+    },
+    {
+      "$oid": "67ffd47b62a01e38b69d33d8"
+    }
+  ]
 },
 {
   "_id": {
@@ -743,19 +1383,51 @@
   "pantheon": "Arthurian",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/Merlin/default.webp",
+  "image": "images\\gods\\Merlin\\default.webp",
   "estadistics": {
-    "max_health": 591.4,
-    "max_mana": 320,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.6,
-    "magical_protection": 27.4,
-    "movement speed": 375,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.4,
-    "power": 42
-  }
+    "max_health": "591.4",
+    "max_mana": "320",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.6",
+    "magical_protection": "27.4",
+    "movement speed": "375",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.4",
+    "power": "42"
+  },
+  "abilities": [
+    {
+      "$oid": "67ffd89562a01e38b69d33dc"
+    },
+    {
+      "$oid": "67ffd89c62a01e38b69d33dd"
+    },
+    {
+      "$oid": "67ffd8a262a01e38b69d33de"
+    },
+    {
+      "$oid": "67ffd8a962a01e38b69d33df"
+    },
+    {
+      "$oid": "67ffd8b062a01e38b69d33e0"
+    },
+    {
+      "$oid": "67ffd8c362a01e38b69d33e1"
+    },
+    {
+      "$oid": "67ffd8c962a01e38b69d33e2"
+    },
+    {
+      "$oid": "67ffd8cf62a01e38b69d33e3"
+    },
+    {
+      "$oid": "67ffd8e762a01e38b69d33e4"
+    },
+    {
+      "$oid": "67ffd8ee62a01e38b69d33e5"
+    }
+  ]
 },
 {
   "_id": {
@@ -766,19 +1438,42 @@
   "pantheon": "Arthurian",
   "rol": "Solo",
   "type": "Physical",
-  "image": "images/gods/Mordred/default.webp",
+  "image": "images\\gods\\Mordred\\default.webp",
   "estadistics": {
-    "max_health": 647.4,
-    "max_mana": 296,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.4,
-    "magical_protection": 28.6,
-    "movement speed": 365,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "647.4",
+    "max_mana": "296",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.4",
+    "magical_protection": "28.6",
+    "movement speed": "365",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "680146c6f86b74b1aaa7dd9b"
+    },
+    {
+      "$oid": "680146eef86b74b1aaa7dd9c"
+    },
+    {
+      "$oid": "680146f4f86b74b1aaa7dd9d"
+    },
+    {
+      "$oid": "680146fbf86b74b1aaa7dd9e"
+    },
+    {
+      "$oid": "68014703f86b74b1aaa7dd9f"
+    },
+    {
+      "$oid": "68014709f86b74b1aaa7dda0"
+    },
+    {
+      "$oid": "68014710f86b74b1aaa7dda1"
+    }
+  ]
 },
 {
   "_id": {
@@ -789,19 +1484,39 @@
   "pantheon": "Egyptian",
   "rol": "Carry",
   "type": "Physical",
-  "image": "images/gods/Neith/default.webp",
+  "image": "images\\gods\\Neith\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 307.84,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.14,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 375,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.33,
-    "power": 46.18
-  }
+    "max_health": "591.38",
+    "max_mana": "307.84",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.14",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "375",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.33",
+    "power": "46.18"
+  },
+  "abilities": [
+    {
+      "$oid": "68015220f86b74b1aaa7dda6"
+    },
+    {
+      "$oid": "68015236f86b74b1aaa7dda7"
+    },
+    {
+      "$oid": "6801523df86b74b1aaa7dda8"
+    },
+    {
+      "$oid": "68015244f86b74b1aaa7dda9"
+    },
+    {
+      "$oid": "6801524bf86b74b1aaa7ddaa"
+    },
+    {
+      "$oid": "68015254f86b74b1aaa7ddab"
+    }
+  ]
 },
 {
   "_id": {
@@ -812,19 +1527,39 @@
   "pantheon": "Greek",
   "rol": "Jungle",
   "type": "Physical",
-  "image": "images/gods/Nemesis/default.webp",
+  "image": "images\\gods\\Nemesis\\default.webp",
   "estadistics": {
-    "max_health": 547.4,
-    "max_mana": 322.5,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.4,
-    "magical_protection": 24.8,
-    "movement speed": 442,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "547.4",
+    "max_mana": "322.5",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.4",
+    "magical_protection": "24.8",
+    "movement speed": "442",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "680156a5f86b74b1aaa7ddb0"
+    },
+    {
+      "$oid": "680156aff86b74b1aaa7ddb1"
+    },
+    {
+      "$oid": "680156b6f86b74b1aaa7ddb2"
+    },
+    {
+      "$oid": "680156bef86b74b1aaa7ddb3"
+    },
+    {
+      "$oid": "680156c8f86b74b1aaa7ddb4"
+    },
+    {
+      "$oid": "680156cef86b74b1aaa7ddb5"
+    }
+  ]
 },
 {
   "_id": {
@@ -835,18 +1570,18 @@
   "pantheon": "Chinese",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/NuWa/default.webp",
+  "image": "images\\gods\\NuWa\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.57,
-    "magical_protection": 27.43,
-    "movement speed": 365,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 42.18
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.57",
+    "magical_protection": "27.43",
+    "movement speed": "365",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "42.18"
   }
 },
 {
@@ -858,19 +1593,39 @@
   "pantheon": "Norse",
   "rol": "Solo",
   "type": "Physical",
-  "image": "images/gods/Odin/default.webp",
+  "image": "images\\gods\\Odin\\default.webp",
   "estadistics": {
-    "max_health": 647.4,
-    "max_mana": 296,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.4,
-    "magical_protection": 28.6,
-    "movement speed": 375,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "647.4",
+    "max_mana": "296",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.4",
+    "magical_protection": "28.6",
+    "movement speed": "375",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "68015e8af86b74b1aaa7ddbe"
+    },
+    {
+      "$oid": "68015e9af86b74b1aaa7ddbf"
+    },
+    {
+      "$oid": "68015ea2f86b74b1aaa7ddc0"
+    },
+    {
+      "$oid": "68015ea8f86b74b1aaa7ddc1"
+    },
+    {
+      "$oid": "68015eaef86b74b1aaa7ddc2"
+    },
+    {
+      "$oid": "68015eb6f86b74b1aaa7ddc3"
+    }
+  ]
 },
 {
   "_id": {
@@ -881,19 +1636,39 @@
   "pantheon": "Polynesian",
   "rol": "Jungle",
   "type": "Physical",
-  "image": "images/gods/Pele/default.webp",
+  "image": "images\\gods\\Pele\\default.webp",
   "estadistics": {
-    "max_health": 622.5,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.25,
-    "physical_protection": 19,
-    "magical_protection": 27.5,
-    "movement speed": 375,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "622.5",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.25",
+    "physical_protection": "19",
+    "magical_protection": "27.5",
+    "movement speed": "375",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "68016233f86b74b1aaa7ddc4"
+    },
+    {
+      "$oid": "6801623df86b74b1aaa7ddc5"
+    },
+    {
+      "$oid": "68016243f86b74b1aaa7ddc6"
+    },
+    {
+      "$oid": "68016249f86b74b1aaa7ddc7"
+    },
+    {
+      "$oid": "68016251f86b74b1aaa7ddc8"
+    },
+    {
+      "$oid": "68016257f86b74b1aaa7ddc9"
+    }
+  ]
 },
 {
   "_id": {
@@ -904,19 +1679,39 @@
   "pantheon": "Greek",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/Poseidon/default.webp",
+  "image": "images\\gods\\Poseidon\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.57,
-    "magical_protection": 27.43,
-    "movement speed": 365,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 42.18
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.57",
+    "magical_protection": "27.43",
+    "movement speed": "365",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "68019a2bf86b74b1aaa7ddcd"
+    },
+    {
+      "$oid": "68019a37f86b74b1aaa7ddce"
+    },
+    {
+      "$oid": "68019a3ef86b74b1aaa7ddcf"
+    },
+    {
+      "$oid": "68019a45f86b74b1aaa7ddd0"
+    },
+    {
+      "$oid": "68019a4bf86b74b1aaa7ddd1"
+    },
+    {
+      "$oid": "68019a52f86b74b1aaa7ddd2"
+    }
+  ]
 },
 {
   "_id": {
@@ -927,19 +1722,39 @@
   "pantheon": "Korean",
   "rol": "Carry",
   "type": "Magical",
-  "image": "images/gods/Bari/default.webp",
+  "image": "images\\gods\\Bari\\default.webp",
   "estadistics": {
-    "max_health": 591.4,
-    "max_mana": 295.6,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.3,
-    "physical_protection": 18.1,
-    "magical_protection": 26.1,
-    "movement speed": 375,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 48
-  }
+    "max_health": "591.4",
+    "max_mana": "295.6",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.3",
+    "physical_protection": "18.1",
+    "magical_protection": "26.1",
+    "movement speed": "375",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "48"
+  },
+  "abilities": [
+    {
+      "$oid": "68019d68f86b74b1aaa7ddd6"
+    },
+    {
+      "$oid": "68019d73f86b74b1aaa7ddd7"
+    },
+    {
+      "$oid": "68019d7af86b74b1aaa7ddd8"
+    },
+    {
+      "$oid": "68019d7ff86b74b1aaa7ddd9"
+    },
+    {
+      "$oid": "68019d89f86b74b1aaa7ddda"
+    },
+    {
+      "$oid": "68019d91f86b74b1aaa7dddb"
+    }
+  ]
 },
 {
   "_id": {
@@ -950,19 +1765,39 @@
   "pantheon": "Egyptian",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/Ra/default.webp",
+  "image": "images\\gods\\Ra\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.57,
-    "magical_protection": 27.43,
-    "movement speed": 375,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.4,
-    "power": 42.18
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.57",
+    "magical_protection": "27.43",
+    "movement speed": "375",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.4",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "6801a12cf86b74b1aaa7ddde"
+    },
+    {
+      "$oid": "6801a134f86b74b1aaa7dddf"
+    },
+    {
+      "$oid": "6801a13bf86b74b1aaa7dde0"
+    },
+    {
+      "$oid": "6801a141f86b74b1aaa7dde1"
+    },
+    {
+      "$oid": "6801a147f86b74b1aaa7dde2"
+    },
+    {
+      "$oid": "6801a14ef86b74b1aaa7dde3"
+    }
+  ]
 },
 {
   "_id": {
@@ -973,19 +1808,39 @@
   "pantheon": "Hindu",
   "rol": "Carry",
   "type": "Physical",
-  "image": "images/gods/Rama/default.webp",
+  "image": "images\\gods\\Rama\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.14,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 365,
-    "base_attack_speed": 0.95,
-    "attack_speed_percent": 1.7,
-    "power": 47.95
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.14",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "365",
+    "base_attack_speed": "0.95",
+    "attack_speed_percent": "1.7",
+    "power": "47.95"
+  },
+  "abilities": [
+    {
+      "$oid": "6801a466f86b74b1aaa7dde8"
+    },
+    {
+      "$oid": "6801a46df86b74b1aaa7dde9"
+    },
+    {
+      "$oid": "6801a472f86b74b1aaa7ddea"
+    },
+    {
+      "$oid": "6801a477f86b74b1aaa7ddeb"
+    },
+    {
+      "$oid": "6801a47ef86b74b1aaa7ddec"
+    },
+    {
+      "$oid": "6801a484f86b74b1aaa7dded"
+    }
+  ]
 },
 {
   "_id": {
@@ -996,19 +1851,39 @@
   "pantheon": "Egyptian",
   "rol": "Support",
   "type": "Magical",
-  "image": "images/gods/Sobek/default.webp",
+  "image": "images\\gods\\Sobek\\default.webp",
   "estadistics": {
-    "max_health": 626.4,
-    "max_mana": 296,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 19.76,
-    "magical_protection": 28.6,
-    "movement speed": 375,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.33,
-    "power": 42.18
-  }
+    "max_health": "626.4",
+    "max_mana": "296",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "19.76",
+    "magical_protection": "28.6",
+    "movement speed": "375",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.33",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "6801a78df86b74b1aaa7ddf0"
+    },
+    {
+      "$oid": "6801a797f86b74b1aaa7ddf1"
+    },
+    {
+      "$oid": "6801a79ef86b74b1aaa7ddf2"
+    },
+    {
+      "$oid": "6801a7a4f86b74b1aaa7ddf3"
+    },
+    {
+      "$oid": "6801a7abf86b74b1aaa7ddf4"
+    },
+    {
+      "$oid": "6801a7b0f86b74b1aaa7ddf5"
+    }
+  ]
 },
 {
   "_id": {
@@ -1019,19 +1894,39 @@
   "pantheon": "Norse",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/Sol/default.webp",
+  "image": "images\\gods\\Sol\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.57,
-    "magical_protection": 27.43,
-    "movement speed": 365,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.51,
-    "power": 46.08
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.57",
+    "magical_protection": "27.43",
+    "movement speed": "365",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.51",
+    "power": "46.08"
+  },
+  "abilities": [
+    {
+      "$oid": "6802916af699ff167cc2cc1e"
+    },
+    {
+      "$oid": "68029172f699ff167cc2cc1f"
+    },
+    {
+      "$oid": "68029179f699ff167cc2cc20"
+    },
+    {
+      "$oid": "6802917ff699ff167cc2cc21"
+    },
+    {
+      "$oid": "68029184f699ff167cc2cc22"
+    },
+    {
+      "$oid": "6802918af699ff167cc2cc23"
+    }
+  ]
 },
 {
   "_id": {
@@ -1042,19 +1937,39 @@
   "pantheon": "Japanese",
   "rol": "Jungle",
   "type": "Physical",
-  "image": "images/gods/Susano/default.webp",
+  "image": "images\\gods\\Susano\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.25,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 365,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.25",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "365",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "68029537f699ff167cc2cc25"
+    },
+    {
+      "$oid": "68029544f699ff167cc2cc26"
+    },
+    {
+      "$oid": "6802954af699ff167cc2cc27"
+    },
+    {
+      "$oid": "6802954ff699ff167cc2cc28"
+    },
+    {
+      "$oid": "68029555f699ff167cc2cc29"
+    },
+    {
+      "$oid": "6802955cf699ff167cc2cc2a"
+    }
+  ]
 },
 {
   "_id": {
@@ -1065,19 +1980,39 @@
   "pantheon": "Greek",
   "rol": "Jungle",
   "type": "Physical",
-  "image": "images/gods/Thanatos/default.webp",
+  "image": "images\\gods\\Thanatos\\default.webp",
   "estadistics": {
-    "max_health": 622.5,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.25,
-    "physical_protection": 19,
-    "magical_protection": 27.5,
-    "movement speed": 375,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "622.5",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.25",
+    "physical_protection": "19",
+    "magical_protection": "27.5",
+    "movement speed": "375",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "68029977f699ff167cc2cc2c"
+    },
+    {
+      "$oid": "68029981f699ff167cc2cc2d"
+    },
+    {
+      "$oid": "68029987f699ff167cc2cc2e"
+    },
+    {
+      "$oid": "6802998df699ff167cc2cc2f"
+    },
+    {
+      "$oid": "68029993f699ff167cc2cc30"
+    },
+    {
+      "$oid": "68029999f699ff167cc2cc31"
+    }
+  ]
 },
 {
   "_id": {
@@ -1088,19 +2023,39 @@
   "pantheon": "Celtic",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/Morrigan/default.webp",
+  "image": "images\\gods\\Morrigan\\default.webp",
   "estadistics": {
-    "max_health": 575.62,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.57,
-    "magical_protection": 27.43,
-    "movement speed": 365,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 46.08
-  }
+    "max_health": "575.62",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.57",
+    "magical_protection": "27.43",
+    "movement speed": "365",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "46.08"
+  },
+  "abilities": [
+    {
+      "$oid": "6802f29ef699ff167cc2cc33"
+    },
+    {
+      "$oid": "6802f2b5f699ff167cc2cc34"
+    },
+    {
+      "$oid": "6802f2bef699ff167cc2cc35"
+    },
+    {
+      "$oid": "6802f2c3f699ff167cc2cc36"
+    },
+    {
+      "$oid": "6802f2caf699ff167cc2cc37"
+    },
+    {
+      "$oid": "6802f2d0f699ff167cc2cc38"
+    }
+  ]
 },
 {
   "_id": {
@@ -1111,19 +2066,39 @@
   "pantheon": "Norse",
   "rol": "Jungle",
   "type": "Physical",
-  "image": "images/gods/Thor/default.webp",
+  "image": "images\\gods\\Thor\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.25,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 365,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 44.4
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.25",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "365",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "6802f6aaf699ff167cc2cc3c"
+    },
+    {
+      "$oid": "6802f6b7f699ff167cc2cc3d"
+    },
+    {
+      "$oid": "6802f6bff699ff167cc2cc3e"
+    },
+    {
+      "$oid": "6802f6c4f699ff167cc2cc3f"
+    },
+    {
+      "$oid": "6802f6caf699ff167cc2cc40"
+    },
+    {
+      "$oid": "6802f6d0f699ff167cc2cc41"
+    }
+  ]
 },
 {
   "_id": {
@@ -1134,19 +2109,51 @@
   "pantheon": "Norse",
   "rol": "Carry",
   "type": "Physical",
-  "image": "images/gods/Ullr/default.webp",
+  "image": "images\\gods\\Ullr\\default.webp",
   "estadistics": {
-    "max_health": 617.62,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.14,
-    "physical_protection": 18.05,
-    "magical_protection": 26.12,
-    "movement speed": 375,
-    "base_attack_speed": 1,
-    "attack_speed_percent": 1.33,
-    "power": 47.95
-  }
+    "max_health": "617.62",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.14",
+    "physical_protection": "18.05",
+    "magical_protection": "26.12",
+    "movement speed": "375",
+    "base_attack_speed": "1",
+    "attack_speed_percent": "1.33",
+    "power": "47.95"
+  },
+  "abilities": [
+    {
+      "$oid": "6802fa43f699ff167cc2cc44"
+    },
+    {
+      "$oid": "6802fa4bf699ff167cc2cc45"
+    },
+    {
+      "$oid": "6802fa50f699ff167cc2cc46"
+    },
+    {
+      "$oid": "6802fa56f699ff167cc2cc47"
+    },
+    {
+      "$oid": "6802fa5cf699ff167cc2cc48"
+    },
+    {
+      "$oid": "6802fa63f699ff167cc2cc49"
+    },
+    {
+      "$oid": "6802faa2f699ff167cc2cc4d"
+    },
+    {
+      "$oid": "6802faa8f699ff167cc2cc4e"
+    },
+    {
+      "$oid": "6802fab3f699ff167cc2cc4f"
+    },
+    {
+      "$oid": "6802fab8f699ff167cc2cc50"
+    }
+  ]
 },
 {
   "_id": {
@@ -1157,19 +2164,39 @@
   "pantheon": "Roman",
   "rol": "Mid",
   "type": "Magical",
-  "image": "images/gods/Vulcan/default.webp",
+  "image": "images\\gods\\Vulcan\\default.webp",
   "estadistics": {
-    "max_health": 617.62,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.57,
-    "magical_protection": 27.43,
-    "movement speed": 365,
-    "base_attack_speed": 0.93,
-    "attack_speed_percent": 1.4,
-    "power": 42.18
-  }
+    "max_health": "617.62",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.57",
+    "magical_protection": "27.43",
+    "movement speed": "365",
+    "base_attack_speed": "0.93",
+    "attack_speed_percent": "1.4",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "68030002f699ff167cc2cc53"
+    },
+    {
+      "$oid": "6803000cf699ff167cc2cc54"
+    },
+    {
+      "$oid": "68030013f699ff167cc2cc55"
+    },
+    {
+      "$oid": "68030018f699ff167cc2cc56"
+    },
+    {
+      "$oid": "6803001df699ff167cc2cc57"
+    },
+    {
+      "$oid": "68030023f699ff167cc2cc58"
+    }
+  ]
 },
 {
   "_id": {
@@ -1180,19 +2207,42 @@
   "pantheon": "Yoruba",
   "rol": "Support",
   "type": "Magical",
-  "image": "images/gods/Yemoja/default.webp",
+  "image": "images\\gods\\Yemoja\\default.webp",
   "estadistics": {
-    "max_health": 672.3,
-    "max_mana": 296,
-    "health_per_time": 1.77,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.52,
-    "magical_protection": 29.7,
-    "movement speed": 375,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.33,
-    "power": 42.18
-  }
+    "max_health": "672.3",
+    "max_mana": "296",
+    "health_per_time": "1.77",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.52",
+    "magical_protection": "29.7",
+    "movement speed": "375",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.33",
+    "power": "42.18"
+  },
+  "abilities": [
+    {
+      "$oid": "68030465f699ff167cc2cc5b"
+    },
+    {
+      "$oid": "6803046bf699ff167cc2cc5c"
+    },
+    {
+      "$oid": "68030472f699ff167cc2cc5d"
+    },
+    {
+      "$oid": "68030478f699ff167cc2cc5e"
+    },
+    {
+      "$oid": "6803047ef699ff167cc2cc5f"
+    },
+    {
+      "$oid": "68030484f699ff167cc2cc60"
+    },
+    {
+      "$oid": "68030489f699ff167cc2cc61"
+    }
+  ]
 },
 {
   "_id": {
@@ -1203,19 +2253,39 @@
   "pantheon": "Norse",
   "rol": "Support",
   "type": "Magical",
-  "image": "images/gods/Ymir/default.webp",
+  "image": "images\\gods\\Ymir\\default.webp",
   "estadistics": {
-    "max_health": 672.3,
-    "max_mana": 296,
-    "health_per_time": 1.84,
-    "mana_per_time": 2.25,
-    "physical_protection": 20.52,
-    "magical_protection": 29.7,
-    "movement speed": 375,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.33,
-    "power": 44.4
-  }
+    "max_health": "672.3",
+    "max_mana": "296",
+    "health_per_time": "1.84",
+    "mana_per_time": "2.25",
+    "physical_protection": "20.52",
+    "magical_protection": "29.7",
+    "movement speed": "375",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.33",
+    "power": "44.4"
+  },
+  "abilities": [
+    {
+      "$oid": "6803048ff699ff167cc2cc62"
+    },
+    {
+      "$oid": "68030971f699ff167cc2cc65"
+    },
+    {
+      "$oid": "68030978f699ff167cc2cc66"
+    },
+    {
+      "$oid": "6803097ef699ff167cc2cc67"
+    },
+    {
+      "$oid": "68030984f699ff167cc2cc68"
+    },
+    {
+      "$oid": "68030989f699ff167cc2cc69"
+    }
+  ]
 },
 {
   "_id": {
@@ -1226,17 +2296,37 @@
   "pantheon": "Greek",
   "rol": "Egyptian",
   "type": "Magical",
-  "image": "images/gods/Zeus/default.webp",
+  "image": "images\\gods\\Zeus\\default.webp",
   "estadistics": {
-    "max_health": 591.38,
-    "max_mana": 296,
-    "health_per_time": 1.7,
-    "mana_per_time": 2.34,
-    "physical_protection": 17.57,
-    "magical_protection": 27.43,
-    "movement speed": 365,
-    "base_attack_speed": 0.97,
-    "attack_speed_percent": 1.46,
-    "power": 42.3
-  }
+    "max_health": "591.38",
+    "max_mana": "296",
+    "health_per_time": "1.7",
+    "mana_per_time": "2.34",
+    "physical_protection": "17.57",
+    "magical_protection": "27.43",
+    "movement speed": "365",
+    "base_attack_speed": "0.97",
+    "attack_speed_percent": "1.46",
+    "power": "42.3"
+  },
+  "abilities": [
+    {
+      "$oid": "68030c49f699ff167cc2cc6c"
+    },
+    {
+      "$oid": "68030c51f699ff167cc2cc6d"
+    },
+    {
+      "$oid": "68030c5bf699ff167cc2cc6e"
+    },
+    {
+      "$oid": "68030c61f699ff167cc2cc6f"
+    },
+    {
+      "$oid": "68030c67f699ff167cc2cc70"
+    },
+    {
+      "$oid": "68030c6df699ff167cc2cc71"
+    }
+  ]
 }]
