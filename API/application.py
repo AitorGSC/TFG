@@ -6,7 +6,7 @@ from bson.json_util import dumps
 from bson import ObjectId
 from datetime import datetime, timezone, timedelta
 from functools import wraps
-import bcrypt
+from bcrypt import hashpw, checkpw, gensalt
 TOKEN_SECRET = 'TFG'
 
 try:
@@ -179,7 +179,7 @@ def register():
         print(str(e))
         return jsonify({'Error': 'Invalid Data'})
     password = data['password'].encode('utf-8')
-    hashed_password = bcrypt.hashpw(password, bcrypt.gensalt())
+    hashed_password = hashpw(password, gensalt())
 
     user_data:dict = {
         'username': data['username'],
@@ -215,7 +215,7 @@ def login():
         password_bytes = password.encode('utf-8')
         stored_hash = user['password'].encode('utf-8')
 
-        if bcrypt.checkpw(password_bytes, stored_hash):
+        if checkpw(password_bytes, stored_hash):
             token_data:dict = {
                 '_id': str(user['_id']),
                 'username': user['email'],
