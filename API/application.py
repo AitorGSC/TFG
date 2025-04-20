@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, abort
+from flask import Flask, request, jsonify
 from jsonschema import validate
 import os, json, jwt
 from pymongo import MongoClient
@@ -7,6 +7,7 @@ from bson import ObjectId
 from datetime import datetime, timezone, timedelta
 from functools import wraps
 from bcrypt import hashpw, checkpw, gensalt
+
 TOKEN_SECRET = 'TFG'
 
 try:
@@ -127,7 +128,7 @@ def get_gods_type(type:str):
     return jsonify(json.loads(dumps(gods)))
 
 # Methods of abilities
-@application.route("/ability/<string:id>", methods=['GET']) # objetitId ability
+@application.route("/ability/<string:id>", methods=['GET']) # objetitId of ability
 def get_ability(id:str):
     if not ObjectId.is_valid(id):
         return errorId()
@@ -138,7 +139,35 @@ def get_ability(id:str):
 
     ability:dict = db.abilities.find_one(filter, projection)
     return jsonify(json.loads(dumps(ability)))
+
 # Abilities of one god
+@application.route("/abilities_of_god/<string:id>", methods=['GET']) # objectiveId of god
+def get_abilities_of_god(id:str):
+    if not ObjectId.is_valid(id):
+        return errorId()
+    filter:dict = {
+        '_id': ObjectId(id)
+    }
+    projection:dict = {
+        '_id': 1,
+        'name': 1,
+        'abilities': 1
+    }
+    god:dict = db.gods.find_one(filter, projection)
+    
+    if not god:
+        return notExist()
+    
+    ids_abilities:list[str] = god['abilities']
+    abilities:list = []
+    for id in ids_abilities:
+        filter = {
+            '_id': ObjectId(id)
+        }
+        ability:dict = db.abilities.find_one(filter)
+        abilities.append(ability)
+    return jsonify(json.loads(dumps(abilities))), 200
+
 
 # Filters of abilities
 @application.route("/abilities/<string:type>")
@@ -154,11 +183,40 @@ def get_ability_type(type:str):
     abilities:list = list(db.abilities.find(filter, projection)) 
     return jsonify(json.loads(dumps(abilities)))
 
+@application.route("/insert_god_in_user/<string:id_user>/<string:id_god>", methods=['POST'])
+def insert_god_in_user(id_user:str, id_god:str):
+    if not ObjectId.is_valid(id_user) or not ObjectId.is_valid(id_god):
+        return errorId()
+    filter:dict = {
+        '_id': ObjectId(id_user)
+    }
+    user:dict = db.users.find_one(filter)
+    filter:dict = {
+        '_id': ObjectId(id_god)
+    }
+    god:dict = db.gods.find_one(filter)
+    if not user or not god:
+        return notExist()
+    gods:list = user['gods']
+    gods.append(ObjectId(id_god))
+    filter = {
+        '_id': ObjectId(id_user)
+    }
+    update_user:dict = {
+        '$set': {'gods': gods}
+    }
+    result:dict = db.users.update_one(filter, update_user)
+    if result:
+        return jsonify({'Update': 'God inserted correctly'})
+    else: 
+        return jsonify({'Error': 'Error'})
+    
 def errorId() -> jsonify:
-    return jsonify({'Error':'Id no valid'})
+    return jsonify({'Error':'Invalid ID'})
 
 def notExist() -> jsonify:
-    return jsonify({'Erro': 'notExist'})
+    return jsonify({'Error': 'Not exist'})
+
 def get_schema(name:str) -> dict:
     with open(f'{path_base}/{name}.json', 'r', encoding='utf8') as fd:
         return json.loads(fd.read())
@@ -180,11 +238,12 @@ def register():
         return jsonify({'Error': 'Invalid Data'})
     password = data['password'].encode('utf-8')
     hashed_password = hashpw(password, gensalt())
-
+    gods:list = []
     user_data:dict = {
         'username': data['username'],
         'email': data['email'],
-        'password': hashed_password.decode('utf8')
+        'password': hashed_password.decode('utf8'),
+        'gods': gods
     }
     result = db.users.insert_one(user_data)
     if not result.inserted_id:
