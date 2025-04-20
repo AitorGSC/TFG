@@ -1,0 +1,28 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "User Schema",
+    "description": "Validación de registro de usuario",
+    "type": "object",
+    "required": ["username", "email", "password"],
+    "properties": {
+        "username": {
+            "type": "string",
+            "minLength": 3,
+            "maxLength": 30,
+            "pattern": "^[a-zA-Z0-9_]+$",
+            "description": "Nombre de usuario sin espacios ni caracteres especiales (excepto _)"
+        },
+        "email": {
+            "type": "string",
+            "format": "email",
+            "description": "Debe ser un correo electrónico válido"
+        },
+        "password": {
+            "type": "string",
+            "minLength": 8,
+            "pattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]+$",
+            "description": "Mínimo 8 caracteres, 1 mayúscula, 1 número y 1 símbolo (@$!%*?&)"
+    }
+    },
+    "additionalProperties": false
+}
