@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box !important;
+    --color_fondo: #242A3C;
+    --color_texto_blanco: #FFFFFF;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color_fondo);
+}
+
+
+.color_fondo {
+    background-color: var(--color_fondo) !important;
+
+}
+
+.color_texto_blanco {
+    color: var(--color_texto_blanco) !important;
+}
+
+.gradient_image {
+    height: 40%; /* Puedes ajustar esto según lo que quieras */
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), transparent);
+    pointer-events: none;
+}

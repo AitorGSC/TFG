@@ -243,6 +243,7 @@ def register():
         'username': data['username'],
         'email': data['email'],
         'password': hashed_password.decode('utf8'),
+        'diamonds': 20,
         'gods': gods
     }
     result = db.users.insert_one(user_data)
